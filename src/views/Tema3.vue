@@ -268,35 +268,35 @@
             figure
               img(src='@/assets/curso/tema3/img42.svg')
         h4.text-center.text-white Presupuesto General de la Nación
-        p.text-center.mb-0 Todos aquellos recursos que pertenecen a la Nación.
+        p.text-center.text-white.mb-0 Todos aquellos recursos que pertenecen a la Nación.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/tema3/img43.svg')
         h4.text-center.text-white Convenios
-        p.text-center.mb-0 Aportes de terceros para la gestión del riesgo de desastres.
+        p.text-center.text-white.mb-0 Aportes de terceros para la gestión del riesgo de desastres.
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/tema3/img44.svg')
         h4.text-center.text-white Regalías
-        p.text-center.mb-0 Todo el dinero producto del desarrollo territorial de la Nación.
+        p.text-center.text-white.mb-0 Todo el dinero producto del desarrollo territorial de la Nación.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/tema3/img45.svg')
         h4.text-center.text-white Rendimientos
-        p.text-center.mb-0 Todos aquellos rendimientos financieros generados por recursos.
+        p.text-center.text-white.mb-0 Todos aquellos rendimientos financieros generados por recursos.
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/tema3/img46.svg')
         h4.text-center.text-white Donaciones
-        p.text-center.mb-0 Recursos y/o bienes contribuidos por terceros o entidades no gubernamentales.
+        p.text-center.text-white.mb-0 Recursos y/o bienes contribuidos por terceros o entidades no gubernamentales.
     
     .row.justify-content-center.mb-4
       .col-lg-8.cajon.color-primario.p-4
