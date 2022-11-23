@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Protocolo de respuesta
-        p.mb-4 Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en donde encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
+        p.mb-4 De acuerdo con la temática estudiada en el componente formativo seleccione la respuesta correcta: 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -249,31 +249,26 @@
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img28.png")
           .col-lg-6
-            h4 Daños directos
             p.mb-0 Los daños directos se definen como todos aquellos efectos de destrucción, parcial o total, sobre la infraestructura física de las viviendas o construcciones, de la maquinaria o equipos, de las vías y medios de transporte, la afectación sobre las tierras de cultivo, cosechas, embalses, obras de riego, entre otras.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Características de los daños directos")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img29.png")
           .col-lg-6
-            h4 Características de los daños directos
             p.mb-0 Una de las principales características de los daños directos es que ocurren en el mismo lapso de tiempo en el que sucede el desastre, siendo relativamente fácil al momento de su identificación y evaluación, pues estos daños pueden observarse a simple vista sobre medios de subsistencia, así como sobre la estructura ecológica principal. Adicionalmente, se incluye dentro de estos primeros daños el costo que deberá realizarse por la limpieza y reconstrucción de los daños, tanto del sector público como del sector privado.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Daños indirectos")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img30.png")
           .col-lg-6
-            h4 Daños indirectos
             p.mb-0 Los daños indirectos se caracterizan por no ser tan evidentes al momento del desastre, es decir, pueden llegar a manifestarse en periodos posteriores y es debido a esto que no son tan fáciles de identificar en una primera valoración. Estos daños provienen de los daños directos, es decir, descienden de los daños ocasionados en la infraestructura, la capacidad productiva, la estructura ecológica principal y la economía de la población, y pueden prolongarse hasta el final de la etapa de rehabilitación y reconstrucción donde no siempre es posible medir estos daños en términos monetarios.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Costos adicionales")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img31.png")
           .col-lg-6
-            h4 Costos adicionales
             p.mb-0 Los costos adicionales que se generen en la prestación de los servicios básicos por consecuencia del fenómeno como la pérdida de cosechas o la afectación de las tierras destinadas a la agricultura, la disminución en los ingresos debido a la imposibilidad de llevarlos a cabo como es el caso de usar vías o medios alternos también se cuantifican dentro de los daños indirectos.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Efectos secundarios")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema2/img32.png")
           .col-lg-6
-            h4 Efectos secundarios
             p.mb-0 Derivado del desastre se pueden contabilizar también los efectos secundarios sobre la conducta de los principales indicadores y variables económicas del país. La medición de los efectos secundarios se realiza desde un punto de vista diferente a pesar de llevarse a cabo como un complemento de la valoración de los daños directos e indirectos, de esta manera los efectos evidencian los resultados de los daños y no deben ser contabilizados en estos.
             
 </template>

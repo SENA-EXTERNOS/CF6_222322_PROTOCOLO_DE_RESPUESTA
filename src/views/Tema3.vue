@@ -297,10 +297,12 @@
               img(src='@/assets/curso/tema3/img46.svg')
         h4.text-center.text-white Donaciones
         p.text-center.text-white.mb-0 Recursos y/o bienes contribuidos por terceros o entidades no gubernamentales.
-    
+
+    p La ley 80 de 1993 dispone las reglas y principios que rigen los contratos de las entidades estatales encargadas de la gestión del riesgo de desastre, los cuales son mediante la modalidad de: licitación pública, concurso de méritos, contratación directa, selección abreviada y mínima cuantía.
+
     .row.justify-content-center.mb-4
       .col-lg-8.cajon.color-primario.p-4
-        p La ley 80 de 1993 dispone las reglas y principios que rigen los contratos de las entidades estatales encargadas de la gestión del riesgo de desastre, los cuales son mediante la modalidad de: licitación pública, concurso de méritos, contratación directa, selección abreviada y mínima cuantía.
+        p.mb-0 Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en donde encontrará la síntesis, la actividad didáctica, material complementario, entre otros.    
 
 
 </template>
