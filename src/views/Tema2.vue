@@ -126,7 +126,7 @@
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
                 | ¿Se han distribuido ampliamente mapas e información sobre los riesgos?
-          .tarjeta.color-secundario.p-3(x="46.25%" y="55%" numero="2")
+          .tarjeta.color-secundario.p-3(x="46.25%" y="55%" numero="4")
             ul.lista-ul--color.ms-4
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
@@ -137,7 +137,7 @@
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
                 | ¿Se pueden emitir alertas precisas y oportunas?
-          .tarjeta.color-secundario.p-3(x="54.25%" y="45%" numero="3")
+          .tarjeta.color-secundario.p-3(x="54.25%" y="45%" numero="2")
             ul.lista-ul--color.ms-4
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
@@ -148,7 +148,7 @@
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
                 | ¿Resulta la información de las alertas clara y útil?
-          .tarjeta.color-secundario.p-3(x="54.25%" y="55%" numero="4")
+          .tarjeta.color-secundario.p-3(x="54.25%" y="55%" numero="3")
             ul.lista-ul--color.ms-4
               li
                 <i class="fas fa-circle" style="color:#fff; font-size: x-small"></i>
